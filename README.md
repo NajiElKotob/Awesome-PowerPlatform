@@ -4,7 +4,7 @@ Awesome Power Platform... Coming Soon
 
 -----
 ## Power BI
-[Awesome Power BI](https://github.com/NajiElKotob/Awesome-Power-BI) - 
+[Awesome Power BI](https://github.com/NajiElKotob/Awesome-Power-BI) - Hundreds of resources and references.
 
 -----
 ## Power Apps
