@@ -31,3 +31,7 @@ Enables anyone to create powerful chatbots using a guided, no-code graphical int
 ### AI Builder
 ### Connectors 
 ### Common Data Service
+
+----
+## Learning Resources
+* [Microsoft Power Platform Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
