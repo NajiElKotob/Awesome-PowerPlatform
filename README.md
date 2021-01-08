@@ -1,6 +1,7 @@
 # Awesome Power Platform
 {Work in Process, Stay Tuned}
 
+With Power Platform you can analyze data for insights using Power BI, quickly and easily build custom apps using Power Apps, automate workflows to improve business productivity using Power Automate, and build intelligent bots with a no-code interface using Power Virtual Agents [learn more](https://docs.microsoft.com/en-us/power-platform/)
 
 
 ## Power BI
@@ -30,6 +31,9 @@ It helps automate repetitive business processes such as communication, data coll
 Enables anyone to create powerful chatbots using a guided, no-code graphical interface
 
 -----
+
+## Features
+
 ### Common Data Service
 Effective November 2020 Common Data Service has been renamed to Microsoft Dataverse [learn more](https://aka.ms/PAuAppBlog)
 
@@ -37,14 +41,12 @@ Effective November 2020 Common Data Service has been renamed to Microsoft Datave
 * [Dataverse](https://powerplatform.microsoft.com/en-us/dataverse/)
 * [What is Microsoft Dataverse?](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/data-platform-intro)
 
------
 
 ### AI Builder
-
------
 
 ### Connectors 
 
 ----
+
 ## Learning Resources
 * [Microsoft Power Platform Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
