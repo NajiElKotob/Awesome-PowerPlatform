@@ -52,6 +52,7 @@ Effective November 2020 Common Data Service has been renamed to Microsoft Datave
 * [Microsoft Power Platform Center of Excellence (CoE) Starter Kit](https://docs.microsoft.com/en-us/power-platform/guidance/coe/starter-kit)
 * [Application lifecycle management (ALM) with Microsoft Power Platform](https://docs.microsoft.com/en-us/power-platform/alm/)
 * [Power Apps and Automate Architecture series (Videos)](https://www.youtube.com/playlist?list=PLi9EhCY4z99W2QOTgbwhFZEjpqc8YZDVH)
+* [Power Platform Videos and PowerPoint presentations](https://docs.microsoft.com/en-us/power-platform/admin/videos)
 
 ## Learning Resources
 * [Microsoft Power Platform Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
