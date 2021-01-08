@@ -16,7 +16,7 @@ Provides a rapid low code development environment for building custom apps for b
 #### YouTube
 * [Microsoft Power Apps](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg)
 
-#### PowerApps Component Framework
+#### Power Apps Component Framework
 * [PCF Gallery](https://pcf.gallery) - PCF Gallery is a collection of controls created with the PowerApps Component Framework.
 
 -----
@@ -29,7 +29,12 @@ It helps automate repetitive business processes such as communication, data coll
 ### Power Virtual Agents
 Enables anyone to create powerful chatbots using a guided, no-code graphical interface
 
-----
+-----
+
+### Dataverse
+* [Dataverse](https://powerplatform.microsoft.com/en-us/dataverse/)
+
+-----
 
 ## Features
 
