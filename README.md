@@ -30,17 +30,20 @@ It helps automate repetitive business processes such as communication, data coll
 Enables anyone to create powerful chatbots using a guided, no-code graphical interface
 
 -----
+### Common Data Service
+Effective November 2020 Common Data Service has been renamed to Microsoft Dataverse [learn more](https://aka.ms/PAuAppBlog)
 
 ### Dataverse
 * [Dataverse](https://powerplatform.microsoft.com/en-us/dataverse/)
+* [What is Microsoft Dataverse?](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/data-platform-intro)
 
 -----
 
-## Features
-
 ### AI Builder
+
+-----
+
 ### Connectors 
-### Common Data Service
 
 ----
 ## Learning Resources
