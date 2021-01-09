@@ -13,12 +13,11 @@ Delivers insights for analyzing data. It can share those insights through data v
 
 ### Power Apps
 Provides a rapid low code development environment for building custom apps for business needs.
-
-#### YouTube
-* [Microsoft Power Apps](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg)
-
-#### Power Apps Component Framework
+* [Microsoft Power Apps (YouTube)](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg)
 * [PCF Gallery](https://pcf.gallery) - PCF Gallery is a collection of controls created with the PowerApps Component Framework.
+
+#### Model-driven apps
+* [What are model-driven apps](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview)
 
 -----
 
