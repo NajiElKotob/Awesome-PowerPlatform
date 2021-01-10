@@ -23,7 +23,9 @@ Provides a rapid low code development environment for building custom apps for b
   * [Google Play](https://aka.ms/PowerAppsAndroid)
   * [Apple App Store](https://aka.ms/PowerAppsiOS)
   * [Microsoft Store](https://aka.ms/PowerAppsWin)
-  
+ 
+#### Power Apps Studio
+* [Understand Power Apps Studio](https://docs.microsoft.com/en-us/powerapps/teams/understand-power-apps-studio)
   
   
 #### Canvas Apps
