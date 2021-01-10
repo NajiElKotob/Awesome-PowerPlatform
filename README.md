@@ -33,10 +33,9 @@ Enables anyone to create powerful chatbots using a guided, no-code graphical int
 
 ## Features
 
-### Common Data Service
+### Dataverse
 Effective November 2020 Common Data Service has been renamed to Microsoft Dataverse [learn more](https://aka.ms/PAuAppBlog)
 
-### Dataverse
 * [Dataverse](https://powerplatform.microsoft.com/en-us/dataverse/)
 * [What is Microsoft Dataverse?](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/data-platform-intro)
 
