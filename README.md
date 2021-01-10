@@ -13,8 +13,10 @@ Delivers insights for analyzing data. It can share those insights through data v
 
 ### Power Apps
 Provides a rapid low code development environment for building custom apps for business needs.
+* [Authoring tool](https://make.powerapps.com) - make.powerapps.com
 * [Microsoft Power Apps (YouTube)](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg)
 * [PCF Gallery](https://pcf.gallery) - PCF Gallery is a collection of controls created with the PowerApps Component Framework.
+
 
 #### Canvas Apps
 
