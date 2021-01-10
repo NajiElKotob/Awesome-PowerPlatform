@@ -29,7 +29,13 @@ Provides a rapid low code development environment for building custom apps for b
   
   
 #### Canvas Apps
-
+##### Create a new Canvas App
+##### Connect to Data Sources
+##### Filter Data
+##### Design the interface
+* [Add and configure a canvas-app control in Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/add-configure-controls)
+* Screens and navigation
+##### Galleries and Controls
 
 #### Model-driven Apps
 * [What are model-driven apps](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview)
