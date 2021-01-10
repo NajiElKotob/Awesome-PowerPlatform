@@ -71,7 +71,7 @@ Unify data across all your business processes and enable interoperability among 
 
 ----
 
-## Guidance
+## Best practices guidance
 * [Microsoft Power Platform Center of Excellence (CoE) Starter Kit](https://docs.microsoft.com/en-us/power-platform/guidance/coe/starter-kit)
 * [Application lifecycle management (ALM) with Microsoft Power Platform](https://docs.microsoft.com/en-us/power-platform/alm/)
 * [Power Apps and Automate Architecture series (Videos)](https://www.youtube.com/playlist?list=PLi9EhCY4z99W2QOTgbwhFZEjpqc8YZDVH)
