@@ -13,8 +13,6 @@ Delivers insights for analyzing data. It can share those insights through data v
 
 ### Power Apps
 Provides a rapid low code development environment for building custom apps for business needs.
-
-* [Power Platform Admin Center](https://admin.powerplatform.microsoft.com)
 * Help
   * [Microsoft Power Apps (YouTube)](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg)
   * [Power Apps Docs](https://docs.microsoft.com/en-us/powerapps/)
@@ -26,10 +24,11 @@ Provides a rapid low code development environment for building custom apps for b
  
 #### Power Apps
 * [Explore Power Apps for free for 30 days](https://docs.microsoft.com/en-us/powerapps/maker/signup-for-powerapps)
-* [Power Apps Studio (Authoring tool)](https://make.powerapps.com) - make.powerapps.com
-* [Understand Power Apps Studio](https://docs.microsoft.com/en-us/powerapps/teams/understand-power-apps-studio)
+* [Power Platform Admin Center](https://admin.powerplatform.microsoft.com)
 * [Environments overview](https://docs.microsoft.com/en-us/power-platform/admin/environments-overview)
-  
+* [Power Apps Studio (Authoring tool)](https://make.powerapps.com) - make.powerapps.com
+* [Understand Power Apps Studio](https://docs.microsoft.com/en-us/powerapps/teams/understand-power-apps-studio) 
+
 #### Canvas Apps
 ##### Create a new Canvas App
 ##### Connect to Data Sources
