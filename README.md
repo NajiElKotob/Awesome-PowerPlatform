@@ -14,7 +14,7 @@ Delivers insights for analyzing data. It can share those insights through data v
 ### Power Apps
 Provides a rapid low code development environment for building custom apps for business needs.
 * [Power Apps Studio (Authoring tool)](https://make.powerapps.com) - make.powerapps.com
-
+* [Power Platform Admin Center](https://admin.powerplatform.microsoft.com)
 * Help
   * [Microsoft Power Apps (YouTube)](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg)
   * [Power Apps Docs](https://docs.microsoft.com/en-us/powerapps/)
