@@ -58,9 +58,12 @@ Effective November 2020 Common Data Service has been renamed to Microsoft Datave
 
 
 ### AI Builder
+AI Builder is a Microsoft Power Platform capability you can use to bring the power of Microsoft AI to your organization, without the need for coding or data science skills.
+* [AI Builder documentation](https://docs.microsoft.com/en-us/ai-builder/)
 
 ### Connectors 
 
+### 
 ----
 
 ## Guidance
