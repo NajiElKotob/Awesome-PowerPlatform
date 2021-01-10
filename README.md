@@ -62,7 +62,8 @@ AI Builder is a Microsoft Power Platform capability you can use to bring the pow
 * [AI Builder documentation](https://docs.microsoft.com/en-us/ai-builder/)
 
 ### Connectors 
-
+Connect to hundreds of data sources using a library of connectors
+* [Connectors documentation](https://docs.microsoft.com/en-us/connectors/)
 
 ### Common Data Model
 Unify data across all your business processes and enable interoperability among apps						
