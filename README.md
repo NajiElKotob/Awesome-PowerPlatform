@@ -32,7 +32,7 @@ Provides a rapid low code development environment for building custom apps for b
 #### Canvas Apps
 
 * [Create a canvas app from scratch using Microsoft Dataverse](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/data-platform-create-app-scratch)
-
+* [New App checker helps you fix errors and make accessible apps](https://powerapps.microsoft.com/en-us/blog/new-app-checker-helps-you-fix-errors-and-make-accessible-apps/)
 ##### Create a new Canvas App
 
 ##### Canvas-app formulas
