@@ -31,18 +31,22 @@ Provides a rapid low code development environment for building custom apps for b
 
 #### Canvas Apps
 
+##### Create a new Canvas App
+* [Create a canvas app from scratch based on Excel data](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/get-started-create-from-blank)
 * [Create a canvas app from scratch using Microsoft Dataverse](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/data-platform-create-app-scratch)
 * [New App checker helps you fix errors and make accessible apps](https://powerapps.microsoft.com/en-us/blog/new-app-checker-helps-you-fix-errors-and-make-accessible-apps/)
-##### Create a new Canvas App
 
 ##### Canvas-app formulas
 * [Get started with canvas-app formulas in Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/working-with-formulas)
 
 ##### Connect to Data Sources
+
 ##### Filter Data
+
 ##### Design the interface
 * [Add and configure a canvas-app control in Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/add-configure-controls)
 * Screens and navigation
+
 ##### Galleries and Controls
 
 #### Model-driven Apps
