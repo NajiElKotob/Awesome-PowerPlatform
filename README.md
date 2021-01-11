@@ -34,6 +34,10 @@ Provides a rapid low code development environment for building custom apps for b
 * [Create a canvas app from scratch using Microsoft Dataverse](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/data-platform-create-app-scratch)
 
 ##### Create a new Canvas App
+
+##### Canvas-app formulas
+* [Get started with canvas-app formulas in Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/working-with-formulas)
+
 ##### Connect to Data Sources
 ##### Filter Data
 ##### Design the interface
