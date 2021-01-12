@@ -54,7 +54,8 @@ Provides a rapid low code development environment for building custom apps for b
 #### Model-driven Apps
 * [What are model-driven apps](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview)
 
-#### Portal
+#### Portals
+* [Portals documentation](https://docs.microsoft.com/en-us/powerapps/maker/portals/)
 
 -----
 
