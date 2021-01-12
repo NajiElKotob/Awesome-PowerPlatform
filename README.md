@@ -40,6 +40,7 @@ Provides a rapid low code development environment for building custom apps for b
 * [Get started with canvas-app formulas in Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/working-with-formulas)
 
 ##### Connect to Data Sources
+* [Connect to Excel from Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/connections/connection-excel)
 
 ##### Filter Data
 
