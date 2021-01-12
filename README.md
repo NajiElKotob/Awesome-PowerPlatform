@@ -1,4 +1,4 @@
-# Awesome Power Platform
+# Awesome Power Platform 💜
 {Work in Process, Stay Tuned}
 
 With Power Platform you can analyze data for insights using Power BI, quickly and easily build custom apps using Power Apps, automate workflows to improve business productivity using Power Automate, and build intelligent bots with a no-code interface using Power Virtual Agents [learn more](https://docs.microsoft.com/en-us/power-platform/)
@@ -6,7 +6,7 @@ With Power Platform you can analyze data for insights using Power BI, quickly an
 
 ## Power BI
 Delivers insights for analyzing data. It can share those insights through data visualizations which make up reports and dashboards to enable fast, informed decisions.
-[Awesome Power BI](https://github.com/NajiElKotob/Awesome-Power-BI) - Hundreds of resources and references.
+[Awesome Power BI](https://github.com/NajiElKotob/Awesome-Power-BI) - Hundreds of resources and references 💛
 
 -----
 
@@ -38,7 +38,7 @@ Provides a rapid low code development environment for building custom apps for b
 
 ##### Canvas-app formulas
 * [Get started with canvas-app formulas in Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/working-with-formulas)
-* [Formula reference for Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference)
+* [Formula reference for Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference) 🧪
 
 ##### Connect to Data Sources
 * [Connect to Excel from Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/connections/connection-excel)
