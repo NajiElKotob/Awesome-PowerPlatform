@@ -38,6 +38,7 @@ Provides a rapid low code development environment for building custom apps for b
 
 ##### Canvas-app formulas
 * [Get started with canvas-app formulas in Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/working-with-formulas)
+* [Formula reference for Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference)
 
 ##### Connect to Data Sources
 * [Connect to Excel from Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/connections/connection-excel)
