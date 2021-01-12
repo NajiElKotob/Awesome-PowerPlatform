@@ -25,6 +25,7 @@ Provides a rapid low code development environment for building custom apps for b
  
 #### Power Apps
 * [Explore Power Apps for free for 30 days](https://docs.microsoft.com/en-us/powerapps/maker/signup-for-powerapps)
+* [Power Apps Community Plan](https://powerapps.microsoft.com/en-us/communityplan/) - Get a free environment for individual use
 * [Power Platform Admin Center](https://admin.powerplatform.microsoft.com)
 * [Environments overview](https://docs.microsoft.com/en-us/power-platform/admin/environments-overview)
 * [Power Apps Studio (Authoring tool)](https://make.powerapps.com) - make.powerapps.com
