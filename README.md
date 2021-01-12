@@ -16,6 +16,7 @@ Provides a rapid low code development environment for building custom apps for b
 * Help
   * [Microsoft Power Apps (YouTube)](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg)
   * [Power Apps Docs](https://docs.microsoft.com/en-us/powerapps/)
+  * [Power Apps pricing](https://powerapps.microsoft.com/en-us/pricing/)
   * [PCF Gallery](https://pcf.gallery) - PCF Gallery is a collection of controls created with the PowerApps Component Framework.
 * Power Apps mobile apps
   * [Google Play](https://aka.ms/PowerAppsAndroid)
