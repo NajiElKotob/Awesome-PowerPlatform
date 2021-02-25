@@ -68,6 +68,9 @@ Provides a rapid low code development environment for building custom apps for b
 ### Power Automate
 It helps automate repetitive business processes such as communication, data collections, and decision approvals.
 
+#### Desktop flows
+* [Introduction to desktop flows](https://docs.microsoft.com/en-us/power-automate/desktop-flows/introduction)
+
 #### Learning Resources
 * [Microsoft Flow Learning Resources](https://flow.microsoft.com/en-us/blog/microsoft-flow-learning-resources-materials/)
 
