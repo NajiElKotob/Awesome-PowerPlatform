@@ -103,6 +103,10 @@ Unify data across all your business processes and enable interoperability among 
 * [Common Data Model documentation](https://docs.microsoft.com/en-us/common-data-model/)
 
 ----
+## Lanugages
+* [Microsoft Power Fx](https://docs.microsoft.com/en-us/power-platform/power-fx/overview) - Microsoft Power Fx is the new name for canvas apps formula language. Microsoft Power Fx is the low-code language that will be used across the Microsoft Power Platform. It is a general-purpose, strong typed, declarative, and functional programming language.
+
+----
 
 ## Best practices guidance
 * [Microsoft Power Platform Center of Excellence (CoE) Starter Kit](https://docs.microsoft.com/en-us/power-platform/guidance/coe/starter-kit)
