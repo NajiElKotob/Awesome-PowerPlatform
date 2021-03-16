@@ -63,6 +63,10 @@ Provides a rapid low code development environment for building custom apps for b
 * [Power Apps webinars](https://docs.microsoft.com/en-us/powerapps/webinars)
 * [Self-paced learning](https://docs.microsoft.com/en-us/learn/browse/?products=power-apps&WT.mc_id=webupdates_GEP_Powerapps-web-wwl%2F)
 
+#### Blogs
+* [Matthew Devaney](https://matthewdevaney.com/category/powerapps/) - No Ads, No Fluff, Just Power Apps Stuff
+
+
 -----
 
 ### Power Automate
