@@ -108,7 +108,9 @@ Unify data across all your business processes and enable interoperability among 
 
 ----
 ## Lanugages
+### FX
 * [Microsoft Power Fx](https://docs.microsoft.com/en-us/power-platform/power-fx/overview) - Microsoft Power Fx is the new name for canvas apps formula language. Microsoft Power Fx is the low-code language that will be used across the Microsoft Power Platform. It is a general-purpose, strong typed, declarative, and functional programming language.
+* [What is Microsoft Power Fx?](https://powerapps.microsoft.com/en-us/blog/what-is-microsoft-power-fx/) - Greg Lindhorst (March 2021)
 
 ----
 
