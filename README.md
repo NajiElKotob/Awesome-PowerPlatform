@@ -1,5 +1,5 @@
 # Awesome Power Platform 💜
-{Work in Process, Stay Tuned}
+{Awesome Works in Progress}
 
 With Power Platform you can analyze data for insights using Power BI, quickly and easily build custom apps using Power Apps, automate workflows to improve business productivity using Power Automate, and build intelligent bots with a no-code interface using Power Virtual Agents [learn more](https://docs.microsoft.com/en-us/power-platform/)
 
