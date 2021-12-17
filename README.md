@@ -73,7 +73,7 @@ Provides a rapid low code development environment for building custom apps for b
 -----
 
 ### Power Automate 💙
-It helps automate repetitive business processes such as communication, data collections, and decision approvals.
+It helps automate repetitive business processes such as communication, data collections, and decision approvals. Microsoft was named a Leader in the 2021 Gartner® Magic Quadrant™ for [Robotic Process Automation (RPA)](https://github.com/NajiElKotob/Awesome-RPA)
 
 #### Desktop flows
 * [Introduction to desktop flows](https://docs.microsoft.com/en-us/power-automate/desktop-flows/introduction)
