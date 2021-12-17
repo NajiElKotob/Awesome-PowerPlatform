@@ -1,17 +1,18 @@
-# Awesome Power Platform 💜
+# Awesome Power Platform 💛💙💜💚
 {Awesome Works in Progress}
 
 With Power Platform you can analyze data for insights using Power BI, quickly and easily build custom apps using Power Apps, automate workflows to improve business productivity using Power Automate, and build intelligent bots with a no-code interface using Power Virtual Agents [learn more](https://docs.microsoft.com/en-us/power-platform/)
 
+-----
 
-## Power BI
+## Power BI 💛
 Delivers insights for analyzing data. It can share those insights through data visualizations which make up reports and dashboards to enable fast, informed decisions.
 [Awesome Power BI](https://github.com/NajiElKotob/Awesome-Power-BI) - Hundreds of resources and references 💛
 
 -----
 
 
-### Power Apps
+### Power Apps 💜
 Provides a rapid low code development environment for building custom apps for business needs.
 * Help
   * [Power Apps Docs](https://docs.microsoft.com/en-us/powerapps/)
@@ -71,7 +72,7 @@ Provides a rapid low code development environment for building custom apps for b
 
 -----
 
-### Power Automate
+### Power Automate 💙
 It helps automate repetitive business processes such as communication, data collections, and decision approvals.
 
 #### Desktop flows
@@ -82,7 +83,7 @@ It helps automate repetitive business processes such as communication, data coll
 
 -----
 
-### Power Virtual Agents
+### Power Virtual Agents 💚
 Enables anyone to create powerful chatbots using a guided, no-code graphical interface
 
 -----
