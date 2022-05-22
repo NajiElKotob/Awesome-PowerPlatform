@@ -62,6 +62,8 @@ With Power Platform you can analyze data for insights using Power BI, quickly an
 #### Learning Resources
 * [Power Apps webinars](https://docs.microsoft.com/en-us/powerapps/webinars)
 * [Self-paced learning](https://docs.microsoft.com/en-us/learn/browse/?products=power-apps&WT.mc_id=webupdates_GEP_Powerapps-web-wwl%2F)
+* [Power Apps webinars](https://docs.microsoft.com/en-us/power-apps/webinars)
+
 
 #### Blogs
 * [Matthew Devaney](https://matthewdevaney.com/category/powerapps/) - No Ads, No Fluff, Just Power Apps Stuff
