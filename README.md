@@ -6,14 +6,14 @@ With Power Platform you can analyze data for insights using Power BI, quickly an
 -----
 
 ## Power BI 💛
-Delivers insights for analyzing data. It can share those insights through data visualizations which make up reports and dashboards to enable fast, informed decisions.
-[Awesome Power BI](https://github.com/NajiElKotob/Awesome-Power-BI) - Hundreds of resources and references 💛
+`Delivers insights for analyzing data. It can share those insights through data visualizations which make up reports and dashboards to enable fast, informed decisions.`
+* [Awesome Power BI](https://github.com/NajiElKotob/Awesome-Power-BI) - Hundreds of resources and references 💛
 
 -----
 
 
 ### Power Apps 💜
-Provides a rapid low code development environment for building custom apps for business needs.
+`Power Apps provides a rapid low code development environment for building custom apps for business needs. It has services, connectors, and a scalable data service and app platform (Microsoft Dataverse) to allow simple integration and interaction with existing data. Power Apps enables the creation of web and mobile applications that run on all devices.`
 * Help
   * [Power Apps Docs](https://docs.microsoft.com/en-us/powerapps/)
   * [Power Apps pricing](https://powerapps.microsoft.com/en-us/pricing/)
@@ -73,7 +73,8 @@ Provides a rapid low code development environment for building custom apps for b
 -----
 
 ### Power Automate 💙
-It helps automate repetitive business processes such as communication, data collections, and decision approvals. Microsoft was named a Leader in the 2021 Gartner® Magic Quadrant™ for [Robotic Process Automation (RPA)](https://github.com/NajiElKotob/Awesome-RPA)
+`Power Automate lets users create automated workflows between applications and services. It helps automate repetitive business processes such as communication, data collections, and decision approvals.`
+* [Robotic Process Automation (RPA)](https://github.com/NajiElKotob/Awesome-RPA) - Microsoft was named a Leader in the 2021 Gartner® Magic Quadrant™
 
 #### Desktop flows
 * [Introduction to desktop flows](https://docs.microsoft.com/en-us/power-automate/desktop-flows/introduction)
@@ -84,7 +85,8 @@ It helps automate repetitive business processes such as communication, data coll
 -----
 
 ### Power Virtual Agents 💚
-Enables anyone to create powerful chatbots using a guided, no-code graphical interface
+`Power Virtual Agents enables anyone to create powerful chatbots using a guided, no-code graphical interface, without the need for data scientists or developers.
+It minimizes the IT effort required to deploy and maintain a custom solution by empowering subject matter experts to build and maintain their own conversational solutions.`
 
 -----
 
