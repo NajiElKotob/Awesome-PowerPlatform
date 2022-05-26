@@ -92,6 +92,11 @@ It minimizes the IT effort required to deploy and maintain a custom solution by 
 
 -----
 
+### Power Pages 💙
+`Quickly build sites that deliver information and services to customers with Microsoft Power Pages, now in preview.`
+* [Announcing Microsoft Power Pages: Build secure, low-code websites](https://powerpages.microsoft.com/en-us/blog/announcing-microsoft-power-pages-build-secure-low-code-websites/)
+
+-----
 ## Features
 
 ### Dataverse
