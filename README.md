@@ -58,6 +58,7 @@ With Power Platform you can analyze data for insights using Power BI, quickly an
 
 #### Copilot
 * [Build better apps, faster: Copilot in Power Apps is now generally available](https://powerapps.microsoft.com/en-us/blog/build-better-apps-faster-copilot-in-power-apps-is-now-generally-available/)
+* [Add Copilot Control to a canvas app](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/add-ai-copilot)
 
 #### Portals
 * [Portals documentation](https://docs.microsoft.com/en-us/powerapps/maker/portals/)
